@@ -5,7 +5,9 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "dev": "nodemon index.js "
+    "dev": "nodemon index.js",
+    "start": "node index.js",
+    "build": "echo 'No build step needed for backend'"
   },
   "author": "Ayush Singh",
   "license": "ISC",
@@ -24,3 +26,4 @@
     "nodemon": "^3.1.10"
   }
 }
+
