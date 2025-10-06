@@ -1,6 +1,6 @@
 # JARVIS-AI VIRTUAL ASSISTANT
 
-Experience a mind-blowing full-stack Virtual Assistant built with the **MERN Stack (MongoDB, Express, React, Node.js)** and deploy it for FREE on [Render](https://virtual-assistant-xmpy.onrender.com/signup)!
+Experience a mind-blowing full-stack Virtual Assistant built with the **MERN Stack (MongoDB, Express, React, Node.js)**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
@@ -67,7 +67,7 @@ JARVIS-AI VIRTUAL ASSISTANT/
 
 ---
 ## Live Demo
-Check out the live deployed app: [JARVIS-AI Virtual Assistant](https://virtual-assistant-xmpy.onrender.com/signup)
+Check out the live deployed app: [JARVIS-AI Virtual Assistant]()
 
 ---
 ## License
